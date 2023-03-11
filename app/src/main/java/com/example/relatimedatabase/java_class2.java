@@ -1,7 +1,11 @@
 package com.example.relatimedatabase;
 
 public class java_class2 {
-    String name,id,roll;
+
+  
+
+    String name,id,cgpa;
+
 
     public java_class2(String name, String id) {
 
